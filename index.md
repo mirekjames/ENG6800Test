@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /ENG6800Test
 profile:
   align: left
   image: profile.png
