@@ -2,13 +2,9 @@
 layout: about
 permalink: /
 profile:
-  align: right
+  align: left
   image: profile.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
-
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Mirek Stolee is a game creator, scholar, and instructor. After earning his M.S. in Computational Media at the University of Califronia, Santa Cruz (UCSC), he taught 7 unique college courses in UCSC's undergraduate game design programs. He is currently a PhD student in the Texts & Technology program at the University of Central Florida. His research work explores the intersection between analog and digital games, focusing on escape rooms and board game adaptations. You can read his [journal article surveying the landscape of escape games in 2020](https://press.etc.cmu.edu/index.php/product/well-played-vol-10-no-1/).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: Hybrid Escape Room Project
+description: Check out Mirek's hybrid VR escape room project here
+redirect: https://www.mirekstolee.com/escapevr.html
 ---
