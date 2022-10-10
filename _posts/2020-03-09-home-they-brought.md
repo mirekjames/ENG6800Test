@@ -6,10 +6,12 @@ title: "Luke"
 
 Pass the revulvar. Let’s play Norwegian Roulette.
 Load the letters in the chamber
+
    e
 s     t
 c     r
    o
+   
 FIREPAUSEFIREPAUSEFIREPAUSEFIREPAUSEFIRE
 get it into your damn head will ya?
 
