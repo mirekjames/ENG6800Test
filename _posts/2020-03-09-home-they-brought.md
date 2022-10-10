@@ -1,26 +1,53 @@
 ---
 layout: post
-title: Home They Brought Her Warrior Dead 
+title: "Luke"
 ---
+# Luke
 
-Home they brought her warrior dead:  
-She nor swooned, nor uttered cry:  
-All her maidens, watching, said,  
-'She must weep or she will die.'  
+Pass the revulvar. Let’s play Norwegian Roulette.
+Load the letters in the chamber
+   e
+s     t
+c     r
+   o
+FIREPAUSEFIREPAUSEFIREPAUSEFIREPAUSEFIRE
+get it into your damn head will ya?
 
-Then they praised him, soft and low,  
-Called him worthy to be loved,  
-Truest friend and noblest foe;  
-Yet she neither spoke nor moved.  
+What are the dots? Is it a reverse clitoris?
+What are these thoughts? Are they a flit
+or is this the sidewalk-hard love of the young
+sailors and their waiting missionary wives?
+Turn up the radio and press F5 until dopamine
+rushes through synapse and wrinkle and settles
+onto your flatiron image of him and her, feeding
+color and bleeding contrast into the page.
+Let’s just forget it. Cock the gun, I’ll gun my cock.
 
-Stole a maiden from her place,  
-Lightly to the warrior stept,  
-Took the face-cloth from the face;  
-Yet she neither moved nor wept.  
+Is it still whiskey dick if the last time you drank
+was at the funeral of a feeder mouse late last year?
+I’m supposed to look at some folds and be certain.
+I’m only certain in that I’m particular. The family photos
+of blankets and sheets and prayer altars are not torn yet
+but sometimes I get a bit of pica and sometimes the only
+thing that matters is a peek at you on Facebook or
+in my bedroom and maybe my poetry is just ambiguous
+enough for me. No, thank you. I’m full.
 
-Rose a nurse of ninety years,  
-Set his child upon her knee—  
-Like summer tempest came her tears—  
-'Sweet my child, I live for thee.'  
+I’m a world-champion ice cream eater, despite
+my tendency to leave lactose in the toilet bowl. I’m
+sorry I’m so goddamn gross sometimes.
+Look dad, I learned my alphabet!
+        B
+       A C
+I learned decimals too. 0.08 plus a Budweiser
+is a great day in the basement.
+I would buttchug melted peppermint bonbon.
 
-[by Alfred Tennyson](https://en.wikisource.org/wiki/Home_They_Brought_Her_Warrior_Dead)
+Who knew a five milligram tablet could expand
+like a magic animal growing capsule in your stomach
+and fill a void that the wetness of other women and
+the aroma of Kahlua only managed to occupy a corner in.
+Congratulations. You are your father.
+(that’s impossible).
+
+
