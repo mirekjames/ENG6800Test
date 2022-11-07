@@ -3,7 +3,7 @@
 title: Mirek Stolee
 description: Texts & Technology PhD Student | University of Central Florida
 
-baseurl: /portfolio/ #name of GitHub repository
+baseurl: /portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -44,7 +44,6 @@ collections:
       - HybridVR.md
       - PencilPoetics.md
       - Lotaria.md
-      - redirect.md
 
 sass:
   sass_dir: /assets/css/_sass
