@@ -51,9 +51,9 @@ Visual Communication and Interaction Design
 
 Video Game Design: From Concept to Code      
 
-#### Science Internship Program Mentor
+##### Science Internship Program Mentor
 
-#### South Bend Code School Lead Coding Instructor
+##### South Bend Code School Lead Coding Instructor
 
 Web Development
 
