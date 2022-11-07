@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hybrid VR Escape Room
-description: an asymmetric escape room using virtual reality and physical space
+description: An Asymmetric Escape Room
 ---
 
 Hybrid VR Escape Room
