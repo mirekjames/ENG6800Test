@@ -15,7 +15,7 @@ B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
 ## Teaching
 
-### Courses Taught
+### Undergraduate Courses Taught
 
 ##### Instructor of Record
 
