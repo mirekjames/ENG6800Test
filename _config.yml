@@ -43,7 +43,7 @@ collections:
     order:
       - HybridVR.md
       - PencilPoetics.md
-      - Lotaria.md
+      - AllSummerInADay.md
 
 sass:
   sass_dir: /assets/css/_sass
