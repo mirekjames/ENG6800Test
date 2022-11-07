@@ -53,6 +53,8 @@ Video Game Design: From Concept to Code
 
 ##### Science Internship Program Mentor
 
+&nbsp;
+
 ##### South Bend Code School Lead Coding Instructor
 
 Web Development
