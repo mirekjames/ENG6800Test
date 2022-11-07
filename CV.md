@@ -15,7 +15,7 @@ B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
 ## Teaching and Mentoring
 
-#### Courses Taught:
+### Courses Taught:
 
 ##### Instructor of Record
 
@@ -35,7 +35,7 @@ Game Studio III
 Human-Centered Design Research
 Visual Communication and Interaction Design
 
-#### K-12 Teaching Experience
+### K-12 Teaching Experience
 
 ##### COSMOS (California State Summer School or Mathematics and Science) Instructor         
 
