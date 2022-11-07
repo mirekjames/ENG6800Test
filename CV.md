@@ -19,7 +19,7 @@ B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
 ##### Instructor of Record
 
-Fundamentals of Interactive Desig
+Fundamentals of Interactive Design
 
 Critical History of Digital Games
 
