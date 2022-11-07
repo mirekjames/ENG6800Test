@@ -15,9 +15,9 @@ B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
 ## Teaching and Mentoring
 
-### Courses Taught:
+#### Courses Taught:
 
-#### Instructor of Record
+##### Instructor of Record
 
 Fundamentals of Interactive Design
 Critical History of Digital Games                                                                      
@@ -28,19 +28,18 @@ Game Studio III
 3D Game Art Production                              
 Visual Communication and Interaction Design                         
 
-#### Graduate Teaching Assistant
+##### Graduate Teaching Assistant
 
 Foundations of Video Game Design
 Game Studio III
 Human-Centered Design Research
 Visual Communication and Interaction Design
 
-### K-12 Teaching Experience
+#### K-12 Teaching Experience
 
-#### COSMOS (California State Summer School or Mathematics and Science) Instructor         
+##### COSMOS (California State Summer School or Mathematics and Science) Instructor         
 
 Video Game Design: From Concept to Code                                                 
-
 #### Science Internship Program Mentor
 
 #### South Bend Code School Lead Coding Instructor
@@ -76,4 +75,5 @@ Game Development in Unity
 
 ## Service
 Panel Chair. "Game Studies, Culture, Play and Practice 6." Southwest Popular/American Culture Association Conference. Albuquerque, NM. 24 February 2022.
+
 Panel Chair. "Games Studies, Culture, Play and Practice 9." Southwest Popular/American Culture Association Conference. Online. 26 February 2021.                     
