@@ -13,41 +13,56 @@ M.S., Computational Media. University of California, Santa Cruz, 2020.
 
 B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
-## Teaching and Mentoring
+## Teaching
 
-### Courses Taught:
+### Courses Taught
 
 ##### Instructor of Record
 
-Fundamentals of Interactive Design
-Critical History of Digital Games                                                                      
-Game Technologies                                                                              
-Foundations of Video Game Design                                                             
-Foundations of Play                                  
-Game Studio III                                    
-3D Game Art Production                              
-Visual Communication and Interaction Design                         
+Fundamentals of Interactive Desig
+
+Critical History of Digital Games
+
+Game Technologies
+
+Foundations of Video Game Design
+
+Foundations of Play
+
+Game Studio III
+
+3D Game Art Production
+
+Visual Communication and Interaction Design
 
 ##### Graduate Teaching Assistant
 
 Foundations of Video Game Design
+
 Game Studio III
+
 Human-Centered Design Research
+
 Visual Communication and Interaction Design
 
 ### K-12 Teaching Experience
 
 ##### COSMOS (California State Summer School or Mathematics and Science) Instructor         
 
-Video Game Design: From Concept to Code                                                 
+Video Game Design: From Concept to Code      
+
 #### Science Internship Program Mentor
 
 #### South Bend Code School Lead Coding Instructor
 
 Web Development
+
 Game Development in Scratch
+
 Game Development in Tynker
-Game Development in Unity                               
+
+Game Development in Unity  
+
 
 ## Journal Articles
 
@@ -61,7 +76,7 @@ Game Development in Unity
 
 "There Will Be More Rooms Added in the Future." Southwest Popular/American Culture Association Conference. Albuquerque, NM. February 2022.
 
-"From Boards and Chits to Circuit Boards and Bits." GENeration Analog: Tabletop Games and Education Conference. Online. August 021.
+"From Boards and Chits to Circuit Boards and Bits." GENeration Analog: Tabletop Games and Education Conference. Online. August 2021.
 
 "Designing Analog Games in the Remote Classroom." Presented at Southwest Popular/American Culture Association Conference. Albuquerque, NM. Online. 26 February 2021.
 
@@ -74,6 +89,7 @@ Game Development in Unity
 "Splitting the Chimera: Narrative and Gameplay in *999*." Southwest Popular/American Culture Association Conference. Albuquerque, NM. 24 February 2017.
 
 ## Service
+
 Panel Chair. "Game Studies, Culture, Play and Practice 6." Southwest Popular/American Culture Association Conference. Albuquerque, NM. 24 February 2022.
 
-Panel Chair. "Games Studies, Culture, Play and Practice 9." Southwest Popular/American Culture Association Conference. Online. 26 February 2021.                     
+Panel Chair. "Games Studies, Culture, Play and Practice 9." Southwest Popular/American Culture Association Conference. Online. 26 February 2021.
