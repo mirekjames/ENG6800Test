@@ -15,11 +15,9 @@ B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
 ## Teaching
 
-### Courses Taught
+### Undergraduate Level
 
-#### Undergraduate Level
-
-##### Instructor of Record
+#### Instructor of Record
 
 Fundamentals of Interactive Design
 
@@ -37,7 +35,7 @@ Game Studio III
 
 Visual Communication and Interaction Design
 
-##### Graduate Teaching Assistant
+#### Graduate Teaching Assistant
 
 Foundations of Video Game Design
 
@@ -47,13 +45,13 @@ Human-Centered Design Research
 
 Visual Communication and Interaction Design
 
-#### K-12 Level
+### K-12 Level
 
-##### COSMOS (California State Summer School or Mathematics and Science) Instructor         
+#### COSMOS (California State Summer School or Mathematics and Science) Instructor         
 
 Video Game Design: From Concept to Code      
 
-##### South Bend Code School Lead Coding Instructor
+#### South Bend Code School Lead Coding Instructor
 
 Web Development
 
