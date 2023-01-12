@@ -15,7 +15,9 @@ B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
 ## Teaching
 
-### Undergraduate Courses Taught
+### Courses Taught
+
+#### Undergraduate Level
 
 ##### Instructor of Record
 
@@ -45,13 +47,11 @@ Human-Centered Design Research
 
 Visual Communication and Interaction Design
 
-### K-12 Teaching Experience
+#### K-12 Level
 
 ##### COSMOS (California State Summer School or Mathematics and Science) Instructor         
 
 Video Game Design: From Concept to Code      
-
-##### Science Internship Program Mentor
 
 ##### South Bend Code School Lead Coding Instructor
 
@@ -93,3 +93,5 @@ Game Development in Unity
 Panel Chair. "Game Studies, Culture, Play and Practice 6." Southwest Popular/American Culture Association Conference. Albuquerque, NM. 24 February 2022.
 
 Panel Chair. "Games Studies, Culture, Play and Practice 9." Southwest Popular/American Culture Association Conference. Online. 26 February 2021.
+
+Mentor. Science Internship Program. University of California, Santa Cruz. Summer 2019.
