@@ -9,7 +9,7 @@ published: true
 
 ## Education
 
-M.S., Computational Media. University of California, Santa Cruz, 2020.
+M.S. Computational Media. University of California, Santa Cruz, 2020.
 
 B.B.A. Marketing and Film, Television & Theatre, University of Notre Dame. 2017.
 
@@ -59,7 +59,7 @@ Game Development in Scratch
 
 Game Development in Tynker
 
-Game Development in Unity  
+Game Development in Unity 
 
 
 ## Journal Articles
