@@ -41,6 +41,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - CriticalMaking.md
       - HybridVR.md
       - PencilPoetics.md
       - AllSummerInADay.md
